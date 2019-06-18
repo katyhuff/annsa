@@ -2,7 +2,7 @@ Mark Kamuda, annsa, (2018), GitHub repository, https://github.com/kamuda1/annsa
 
 
 
-```latex
+```bib
 @misc{kamuda2018,
   author = {Kamuda, Mark},
   title = {annsa},
